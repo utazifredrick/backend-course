@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/utazifredrick/backend-course/issues"
   },
-  "homepage": "https://github.com/utazifredrick/backend-course#readme"
+  "homepage": "https://github.com/utazifredrick/backend-course#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
 }
